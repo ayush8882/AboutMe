@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Ayush Agrawal — Backend Developer (Node.js | NestJS)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=500&lines=Backend+Developer;NestJS+%7C+Node.js+Specialist;Scalable+%7C+Secure+%7C+Performant+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=500&lines=Backend+Developer;NestJS+%7C+Node.js+Specialist;Scalable+And+Secure+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
